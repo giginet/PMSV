@@ -852,8 +852,8 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 850	0352	Take Heart	勇气填充	ブレイブチャージ
 851	0353	Tera Blast	太晶爆发	テラバースト
 852	0354	Silk Trap	线阱	スレッドトラップ
-853	0355	Axe Kick	下压踢	カかとおとし
-854	0356	Last Respects	扫墓	おはがまいり
+853	0355	Axe Kick	下压踢	かかとおとし
+854	0356	Last Respects	扫墓	おはかまいり
 855	0357	Lumina Crash	琉光冲激	ルミナコリジョン
 856	0358	Order Up	上菜	いっちょうあがり
 857	0359	Jet Punch	喷射拳	ジェットパンチ
@@ -864,12 +864,12 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 862	035E	Glaive Rush	巨剑突击	きょけんとつげき
 863	035F	Revival Blessing	复生祈祷	さいきのいのり
 864	0360	Salt Cure	盐腌	しおづけ
-865	0361	Triple Dive	三连钻	とリプルダイブ
+865	0361	Triple Dive	三连钻	トリプルダイブ
 866	0362	Mortal Spin	晶光转转	キラースピン
 867	0363	Doodle	描绘	うつしえ
 868	0364	Fillet Away	甩肉	みおけずる
 869	0365	Kowtow Cleave	仆刀	ドゲザン
-870	0366	Flower Trick	千变万花	トリックフラウー
+870	0366	Flower Trick	千变万花	トリックフラワー
 871	0367	Torch Song	闪焰高歌	フレアソング
 872	0368	Aqua Step	流水旋舞	アクアステップ
 873	0369	Raging Bull	怒牛	レイジングブル
@@ -892,7 +892,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 890	037A	Armor Cannon	铠农炮	アーマーキャノン
 891	037B	Bitter Blade	悔念剑	むねんのつるぎ
 892	037C	Double Shock	电光双击	てんこうそうげき
-893	037D	Gigaton Hammer	巨力锤	デカバンマー
+893	037D	Gigaton Hammer	巨力锤	デカハンマー
 894	037E	Comeuppance	复仇	ほうふく
 895	037F	Aqua Cutter	水波刀	アクアカッター
 896	0380	Blazing Torque	灼热暴冲	バーンアクセル
